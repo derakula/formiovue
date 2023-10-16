@@ -1,5 +1,5 @@
 {
-  "name": "@formio/vue",
+  "name": "@derakula/formiovue",
   "version": "5.0.0-rc.3",
   "description": "A vue.js renderer for form.io forms.",
   "main": "lib/index",
